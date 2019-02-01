@@ -60,15 +60,5 @@ def setup_honor():
     download_github_code("honor/example.py")
     download_github_code("honor/download_cornell.sh")
     download_github_code("honor/download_opensubs.sh")
-© 2019 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
+
+
