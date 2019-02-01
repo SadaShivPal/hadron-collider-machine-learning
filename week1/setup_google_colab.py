@@ -40,7 +40,7 @@ def setup_starspace():
 def setup_week1():
     setup_common()
     download_github_code("week1/grading.py")
-    download_github_code("week1/Zmumu.csv.py")
+    download_github_code("week1/Zmumu.csv")
 
 
 
